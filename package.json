@@ -1,0 +1,30 @@
+{
+  "name": "nodejs_quickstart",
+  "version": "1.0.0",
+  "main": "tempCodeRunnerFile.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luckypants420/NodeJS_quickStart.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luckypants420/NodeJS_quickStart/issues"
+  },
+  "homepage": "https://github.com/luckypants420/NodeJS_quickStart#readme",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "lodash": "^4.17.21",
+    "mongoose": "^8.19.2",
+    "morgan": "^1.10.1"
+  }
+}
