@@ -8,6 +8,7 @@ const morgan = require('morgan')
 const mongoose = require('mongoose')
 const Blog = require('./models/blog')
 
+
 //invoking express app
 const app = express()
 
